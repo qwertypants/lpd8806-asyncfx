@@ -1,0 +1,37 @@
+{
+  "name": "lpd8806-asycnfx",
+  "description": "Non-blocking LPD8806 NodeJS general library with animation effects.",
+  "version": "0.0.1",
+  "homepage": "",
+  "keywords": [
+    "SPI",
+    "LED",
+    "RGB",
+    "LED",
+    "Strip",
+    "LPD8806",
+    "galileo"
+  ],
+
+  "author": "pmdroid, v0od0oChild, qwertypants",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "async": "*",
+    "color": "*",
+    "lpd8806-async": ">=0.2.2",
+    "spi": ">=0.1.2"
+  },
+  "main": "lib/lpd8806-asycnfx",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+
+  "license": "MIT License",
+  "bugs": {
+    "url": ""
+  }
+}
