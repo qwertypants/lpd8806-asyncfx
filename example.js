@@ -1,4 +1,4 @@
-var leds = require('lpd8806-asycnfx')(32);
+var leds = require('lpd8806-asyncfx')(32);
 
 leds.rainbow(1, 25);
 

@@ -1,5 +1,5 @@
 {
-    "name": "lpd8806-asycnfx",
+    "name": "lpd8806-asyncfx",
     "description": "Non-blocking LPD8806 NodeJS general library with animation effects.",
     "version": "0.0.1",
     "homepage": "",
@@ -23,7 +23,7 @@
         "lpd8806-async": ">=0.2.2",
         "spi": ">=0.1.2"
     },
-    "main": "lib/lpd8806-asycnfx",
+    "main": "lib/lpd8806-asyncfx",
     "devDependencies": {},
     "repository": {
         "type": "git",

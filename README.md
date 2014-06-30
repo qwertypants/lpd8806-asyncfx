@@ -3,9 +3,16 @@ This is a wrapper library for [lpd8806-async](https://www.npmjs.org/package/lpd8
 
 It is based heavily off of a [library](https://github.com/v0od0oChild/MuzzleyGalileoDemos/blob/master/lib/ledStripe.js) written by [v0od0oChild](https://github.com/v0od0oChild)
 
+### Install
+```
+npm install lpd8806-asyncfx
+```
+
 ### Example
 
 ```javascript
+// It takes one parameter, the number of leds on the strip.
+// In this example, it's 32 leds.
 var leds = require('lpd8806-asycnfx')(32);
 
 leds.rainbow(1, 25);
