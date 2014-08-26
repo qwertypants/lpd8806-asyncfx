@@ -1,7 +1,7 @@
 {
     "name": "lpd8806-asyncfx",
     "description": "Non-blocking LPD8806 NodeJS general library with animation effects.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "",
     "keywords": [
         "SPI",
